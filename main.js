@@ -1,3 +1,1 @@
-function boasVindas(){
-  alert("Sejam Bem Vindos!!");
-}
+alert("Sejam Bem Vindos!!");
